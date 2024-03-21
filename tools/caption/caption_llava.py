@@ -2,7 +2,7 @@ import argparse
 import csv
 import os
 import warnings
-
+#wuguoli
 import torch
 from llava.constants import DEFAULT_IMAGE_TOKEN, IGNORE_INDEX, IMAGE_TOKEN_INDEX
 from llava.conversation import conv_templates
