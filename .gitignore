@@ -171,6 +171,8 @@ checkpoints/
 outputs/
 samples/
 pretrained_models/
+*.swp
 
 # Secret files
 hostfile
+gradio_cached_examples/
